@@ -1,0 +1,37 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"localhost/TOM_POOL.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"localhost/TOM_POOL.sol": {
+			"keccak256": "0x922786b49daead5442ecc1454fb934c0326d9d1cec467a10a8091086a45938b8",
+			"urls": [
+				"bzz-raw://251362632681a18b07248655b7a79cd58f8b8fc15faad0a671353c0057f0d4eb",
+				"dweb:/ipfs/QmS1RYmH6AU61P8XnUSzb2nGqisr1kasqTwgoMavThUteR"
+			]
+		}
+	},
+	"version": 1
+}
